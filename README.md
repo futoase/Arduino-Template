@@ -1,0 +1,7 @@
+Arduino-Template
+================
+
+LICENSE
+-------
+
+MIT.
